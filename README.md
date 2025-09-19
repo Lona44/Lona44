@@ -80,6 +80,7 @@ Contributing to AI safety research through [Approxiom Research](https://approxio
 ### 🤝 Let's Connect
 
 [![Research Website](https://img.shields.io/badge/🔬_Research-approxiomresearch.com-4A90E2?style=for-the-badge)](https://approxiomresearch.com)
+[![Full Resume](https://img.shields.io/badge/📄_Full_Resume-View_Complete_CV-9C27B0?style=for-the-badge)](https://approxiomresearch.com)
 [![Email](https://img.shields.io/badge/📧_Contact-Get_In_Touch-EA4335?style=for-the-badge)](mailto:your-email@domain.com)
 
 **Building systematic approaches to AI safety through reproducible research and open methodologies**
