@@ -15,7 +15,9 @@
 
 ## 🔬 About Me
 
-Auckland-based researcher focused on systematic approaches to AI misalignment detection and mitigation. Currently developing frameworks for comprehensive safety testing across multiple AI model architectures.
+Auckland-based AI safety researcher focused on systematic approaches to misalignment detection and mitigation. **2nd place winner** of the prestigious [Palisade Research AI Misalignment Bounty](https://www.approxiomresearch.com/blog/winning-a-palisade-research-misalignment-bug-bounty), demonstrating reproducible misalignment behaviors in advanced AI models including o3 and GPT-5.
+
+Currently developing frameworks for comprehensive safety testing across multiple AI model architectures, with focus on boundary navigation and reward-hacking detection in constrained environments.
 
 ## Current Research
 
@@ -43,7 +45,15 @@ Security research examining prompt injection vulnerabilities in retrieval-augmen
 
 Contributing to AI safety research through [Approxiom Research](https://approxiomresearch.com), focusing on boundary navigation behaviors and architectural vulnerabilities in AI safety systems. Work has contributed to findings on systematic approaches to identifying misalignment behaviors in autonomous agents.
 
-## Recent Contributions
+## 🏆 Research Achievements
+
+**[Palisade Research Misalignment Bounty - 2nd Place Winner](https://www.approxiomresearch.com/blog/winning-a-palisade-research-misalignment-bug-bounty)**
+- Demonstrated reproducible misalignment behaviors in o3 and GPT-5 models
+- Identified AI agents' ability to overcome permission constraints and perform reward-hacking
+- Developed systematic methodology for testing boundary navigation in constrained environments
+- Contributed to understanding of architectural vulnerabilities in advanced AI systems
+
+## Recent Technical Contributions
 
 - Independent validation/evaluation architecture preventing self-assessment in AI safety testing
 - Comprehensive analysis tools for codebase technical debt assessment in AI research projects
@@ -53,10 +63,10 @@ Contributing to AI safety research through [Approxiom Research](https://approxio
 
 <div align="center">
 
+![Award Winner](https://img.shields.io/badge/🏆_Palisade_Research-2nd_Place_Winner-FFD700?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI Safety](https://img.shields.io/badge/AI_Safety-Research-FF6B6B?style=for-the-badge&logo=brain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Research](https://img.shields.io/badge/Research-Publications-4ECDC4?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
 
