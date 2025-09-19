@@ -49,27 +49,16 @@ Contributing to AI safety research through [Approxiom Research](https://approxio
 - Comprehensive analysis tools for codebase technical debt assessment in AI research projects
 - Containerized multi-model testing frameworks supporting reproducible AI safety research
 
-## 📊 GitHub Analytics
+## 🛠 Technical Expertise
 
 <div align="center">
 
-### Activity Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lona44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-### Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lona44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-### Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lona44&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
-
-### Repository Metrics
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lona44&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Safety](https://img.shields.io/badge/AI_Safety-Research-FF6B6B?style=for-the-badge&logo=brain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Research](https://img.shields.io/badge/Research-Publications-4ECDC4?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Lona44/Lona44/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
