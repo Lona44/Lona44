@@ -36,10 +36,12 @@ Security research examining prompt injection vulnerabilities in retrieval-augmen
 
 ## Technical Stack
 
-**Languages**: Python, Bash
+**Languages**: Python, JavaScript, Bash
 **AI/ML**: OpenAI API, Anthropic API, LiteLLM
+**Web Development**: Full-stack web applications, responsive design
 **Infrastructure**: Docker, Docker Compose
 **Research Tools**: Systematic evaluation frameworks, automated testing pipelines
+**Professional Development**: [Mission Ready HQ Full Stack Developer](https://www.credential.net/6f647d31-cbd0-4b57-ac98-9a658d993c31) (August 2025)
 
 ## Research Context
 
@@ -64,6 +66,7 @@ Contributing to AI safety research through [Approxiom Research](https://approxio
 <div align="center">
 
 ![Award Winner](https://img.shields.io/badge/🏆_Palisade_Research-2nd_Place_Winner-FFD700?style=for-the-badge&logoColor=white)
+![Full Stack](https://img.shields.io/badge/📜_Mission_Ready_HQ-Full_Stack_Developer-4CAF50?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI Safety](https://img.shields.io/badge/AI_Safety-Research-FF6B6B?style=for-the-badge&logo=brain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white)
