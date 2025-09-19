@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maalonamafaufau/)
 [![Website](https://img.shields.io/badge/Research-approxiomresearch.com-green?style=for-the-badge&logo=web)](https://approxiomresearch.com)
 [![Location](https://img.shields.io/badge/Location-Auckland%2C%20NZ-red?style=for-the-badge&logo=location)]()
 
