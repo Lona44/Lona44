@@ -21,8 +21,8 @@ Currently developing frameworks for comprehensive safety testing across multiple
 
 ## Current Research
 
-**[Unified AI Misalignment Framework](https://github.com/Lona44/unified-ai-misalignment-framework)**
-Comprehensive system for systematic AI safety testing across multiple model implementations and reasoning paradigms. Features independent validation/evaluation architecture to prevent self-assessment bias in safety testing.
+**Unified AI Misalignment Framework:**
+- Comprehensive system for systematic AI safety testing across multiple model implementations and reasoning paradigms. Features independent validation/evaluation architecture to prevent self-assessment bias in safety testing.
 
 **[LLM RAG Prompt Injections](https://github.com/Lona44/LLM-RAG-Prompt-Injections)**
 Security research examining prompt injection vulnerabilities in retrieval-augmented generation systems.
