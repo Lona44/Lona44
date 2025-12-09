@@ -49,7 +49,7 @@ Contributing to AI safety research through [Approxiom Research](https://approxio
 
 ## 🏆 Research Achievements
 
-**[Palisade Research Misalignment Bounty - 2nd Place Winner](https://www.approxiomresearch.com/blog/winning-a-palisade-research-misalignment-bug-bounty)**
+**[Palisade Research Misalignment Bounty - 3rd Place Winner](https://www.approxiomresearch.com/blog/winning-a-palisade-research-misalignment-bug-bounty)**
 - Demonstrated reproducible misalignment behaviors in o3 and GPT-5 models
 - Identified AI agents' ability to overcome permission constraints and perform reward-hacking
 - Developed systematic methodology for testing boundary navigation in constrained environments
