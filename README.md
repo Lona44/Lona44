@@ -15,7 +15,7 @@
 
 ## 🔬 About Me
 
-Auckland-based AI safety researcher focused on systematic approaches to misalignment detection and mitigation. **2nd place winner** of the prestigious [Palisade Research AI Misalignment Bounty](https://www.approxiomresearch.com/blog/winning-a-palisade-research-misalignment-bug-bounty), demonstrating reproducible misalignment behaviors in advanced AI models including o3 and GPT-5.
+Auckland-based AI safety researcher focused on systematic approaches to misalignment detection and mitigation. **3rd place winner** of the prestigious [Palisade Research AI Misalignment Bounty](https://www.approxiomresearch.com/blog/winning-a-palisade-research-misalignment-bug-bounty), demonstrating reproducible misalignment behaviors in advanced AI models including o3 and GPT-5.
 
 Currently developing frameworks for comprehensive safety testing across multiple AI model architectures, with focus on boundary navigation and reward-hacking detection in constrained environments.
 
