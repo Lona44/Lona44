@@ -65,7 +65,7 @@ Contributing to AI safety research through [Approxiom Research](https://approxio
 
 <div align="center">
 
-![Award Winner](https://img.shields.io/badge/🏆_Palisade_Research-2nd_Place_Winner-FFD700?style=for-the-badge&logoColor=white)
+![Award Winner](https://img.shields.io/badge/🏆_Palisade_Research-3rd_Place_Winner-FFD700?style=for-the-badge&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/📜_Mission_Ready_HQ-Full_Stack_Developer-4CAF50?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI Safety](https://img.shields.io/badge/AI_Safety-Research-FF6B6B?style=for-the-badge&logo=brain&logoColor=white)
