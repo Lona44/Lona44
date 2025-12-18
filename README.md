@@ -1,88 +1,133 @@
 <!-- Header with typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+Safety+Research+%26+Development;Systematic+Misalignment+Detection;Building+Safety+Testing+Frameworks;Auckland%2C+New+Zealand" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Safety+Researcher;Building+Safety+Testing+Frameworks;Auckland%2C+New+Zealand" alt="Typing Animation" />
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maalonamafaufau/)
-[![Website](https://img.shields.io/badge/Research-approxiomresearch.com-green?style=for-the-badge&logo=web)](https://approxiomresearch.com)
-[![Location](https://img.shields.io/badge/Location-Auckland%2C%20NZ-red?style=for-the-badge&logo=location)]()
+[![Website](https://img.shields.io/badge/Research-approxiomresearch.com-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://approxiomresearch.com)
+[![REDD Platform](https://img.shields.io/badge/REDD-AI%20Safety%20Platform-red?style=for-the-badge&logo=robot&logoColor=white)](https://redd.approxiomresearch.com)
 
 </div>
 
 ---
 
-## 🔬 About Me
+## About Me
 
-Auckland-based AI safety researcher focused on systematic approaches to misalignment detection and mitigation. **3rd place winner** of the prestigious [Palisade Research AI Misalignment Bounty](https://www.approxiomresearch.com/blog/winning-a-palisade-research-misalignment-bug-bounty), demonstrating reproducible misalignment behaviors in advanced AI models including o3 and GPT-5.
+Full Stack Developer and AI Safety Researcher based in Auckland, New Zealand. **3rd place winner** of the [Palisade Research AI Misalignment Bounty](https://arxiv.org/abs/2510.19738), demonstrating reproducible misalignment behaviors in frontier AI models including o3 and GPT-5.
 
-Currently developing frameworks for comprehensive safety testing across multiple AI model architectures, with focus on boundary navigation and reward-hacking detection in constrained environments.
+Currently building full-stack applications with AI integration while advancing AI safety research through systematic testing frameworks.
 
-## Current Research
+---
 
-**Unified AI Misalignment Framework:**
-- Comprehensive system for systematic AI safety testing across multiple model implementations and reasoning paradigms. Features independent validation/evaluation architecture to prevent self-assessment bias in safety testing.
+## Featured Projects
 
-**[LLM RAG Prompt Injections](https://github.com/Lona44/LLM-RAG-Prompt-Injections)**
-Security research examining prompt injection vulnerabilities in retrieval-augmented generation systems.
+### REDD - AI Safety Testing Platform
+[![Live](https://img.shields.io/badge/Live-redd.approxiomresearch.com-success?style=flat-square)](https://redd.approxiomresearch.com)
+[![Repo](https://img.shields.io/badge/GitHub-unified--ai--misalignment--framework-blue?style=flat-square&logo=github)](https://github.com/Lona44/unified-ai-misalignment-framework)
 
-## Technical Focus
+Full-stack platform for systematic AI safety evaluation, testing 12+ frontier models (GPT-5, Claude Opus/Sonnet, Gemini, o3) for misalignment behaviors.
+- React frontend with Material-UI
+- FastAPI backend on Google Cloud Platform
+- Containerised testing framework with Docker
+- Independent evaluation system to prevent self-assessment bias
 
-- **AI Safety Testing**: Framework development for systematic misalignment detection
-- **Model Security**: Prompt injection research and mitigation strategies
-- **Research Infrastructure**: Containerized, reproducible AI research environments
-- **Multi-Model Analysis**: Comparative safety evaluation across AI architectures
+**Technologies:** React, FastAPI, GCP (Cloud Run, Firestore, Cloud Build), Docker, Python, OpenAI SDK, Anthropic SDK
 
-## Technical Stack
+---
 
-**Languages**: Python, JavaScript, Bash
-**AI/ML**: OpenAI API, Anthropic API, LiteLLM
-**Web Development**: Full-stack web applications, responsive design
-**Infrastructure**: Docker, Docker Compose
-**Research Tools**: Systematic evaluation frameworks, automated testing pipelines
-**Professional Development**: [Mission Ready HQ Full Stack Developer](https://www.credential.net/6f647d31-cbd0-4b57-ac98-9a658d993c31) (August 2025)
+### Trade Me Marketplace (Team Project)
+[![Repo](https://img.shields.io/badge/GitHub-Mission--5--Phase--2-blue?style=flat-square&logo=github)](https://github.com/Lona44/Mission-Ready-L5-Mission-5-Phase-2)
 
-## Research Context
+Full-stack auction marketplace with AI-powered features, built with a team of 3 developers and 2 UX designers.
+- Real-time bidding, watchlists, product comparison
+- AI-powered Q&A system (Gemini/Ollama)
+- RESTful API with MongoDB
+- 56+ passing tests using TDD methodology
 
-Contributing to AI safety research through [Approxiom Research](https://approxiomresearch.com), focusing on boundary navigation behaviors and architectural vulnerabilities in AI safety systems. Work has contributed to findings on systematic approaches to identifying misalignment behaviors in autonomous agents.
+**Technologies:** React 19, Node.js, Express.js, MongoDB, Google Gemini API, Jest
 
-## 🏆 Research Achievements
+---
 
-**[Palisade Research Misalignment Bounty - 3rd Place Winner](https://www.approxiomresearch.com/blog/winning-a-palisade-research-misalignment-bug-bounty)**
-- Demonstrated reproducible misalignment behaviors in o3 and GPT-5 models
-- Identified AI agents' ability to overcome permission constraints and perform reward-hacking
+### Turners Insurance AI Chatbot
+[![Repo](https://img.shields.io/badge/GitHub-Mission--3--Gemini--Chat--Bot-blue?style=flat-square&logo=github)](https://github.com/Lona44/Mission-Ready-L5-Mission-3-Gemini-Chat-Bot)
+
+Conversational AI insurance consultant with multi-turn dialogue and business rule enforcement.
+
+**Technologies:** React 19, Node.js, Express.js, Google Gemini API, Vite
+
+---
+
+## Technical Skills
+
+<div align="center">
+
+| Frontend | Backend | Cloud & DevOps | AI/ML |
+|:--------:|:-------:|:--------------:|:-----:|
+| React | Node.js | GCP | OpenAI API |
+| TypeScript | Express.js | Azure | Anthropic API |
+| JavaScript | FastAPI | AWS | Gemini API |
+| HTML5/CSS3 | Python | Docker | LiteLLM |
+| Tailwind | REST APIs | Git/CI/CD | Prompt Engineering |
+
+</div>
+
+**Databases:** MongoDB, Mongoose, SQL Server, PostgreSQL, Firestore
+
+**Testing:** Jest, Supertest, MongoDB Memory Server, TDD
+
+**Security:** SIEM (Splunk), Threat Detection, APT Hunting, Blue Team Operations
+
+---
+
+## Experience Highlights
+
+- **Independent Researcher** @ Approxiom Research - AI safety research, 3rd place Palisade Bounty winner
+- **Assistant Trainer** @ Mission Ready HQ - Mentoring full-stack developer students
+- **Cybersecurity Engineer** @ Workday - Threat hunting, detection engineering, Python automation
+- **Data Analyst** @ Halter Limited - Agricultural IoT data analysis, ML-based products
+
+---
+
+## Education & Certifications
+
+<div align="center">
+
+![Award](https://img.shields.io/badge/Palisade_Research-3rd_Place_Winner-FFD700?style=for-the-badge)
+![Diploma](https://img.shields.io/badge/Mission_Ready-L5%2FL6_Diploma_(In_Progress)-4CAF50?style=for-the-badge)
+![BTL1](https://img.shields.io/badge/Blue_Team_Level_1-Certified-2196F3?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge)
+
+</div>
+
+- **Diploma in Digital Technology Development and Design (L5/L6)** - Mission Ready HQ, Expected April 2026
+- **Full Stack Developer Certificate (L4)** - Mission Ready HQ, August 2025
+- **BSc (Honours) Statistics** - University of Auckland
+- **Palo Alto Networks Cybersecurity Professional Certificate**
+- **Blue Team Level 1 (BTL1)**
+- **AWS Cloud Quest: Cloud Practitioner**
+
+---
+
+## Research Publication
+
+**Palisade Research AI Misalignment Bounty**
+- Published: [arXiv:2510.19738](https://arxiv.org/abs/2510.19738)
+- Dataset: [HuggingFace](https://huggingface.co/datasets/palisaderesearch/Misalignment-Bounty-Submissions)
+- Demonstrated reproducible misalignment in o3 and GPT-5 models
 - Developed systematic methodology for testing boundary navigation in constrained environments
-- Contributed to understanding of architectural vulnerabilities in advanced AI systems
-
-## Recent Technical Contributions
-
-- **Built multi-provider AI testing framework** - Architected Docker-based system supporting OpenAI, Anthropic APIs with independent validation architecture, eliminating self-evaluation bias across 3+ model implementations
-- **Developed automated code analysis suite** - Created Python tools for technical debt assessment, duplicate code detection, and complexity analysis, reducing manual code review time and improving codebase maintainability
-- **Implemented secure API routing system** - Designed environment-configurable model selection preventing security vulnerabilities, with containerized deployment supporting multiple AI providers and failover mechanisms
-
-## 🛠 Technical Expertise
-
-<div align="center">
-
-![Award Winner](https://img.shields.io/badge/🏆_Palisade_Research-3rd_Place_Winner-FFD700?style=for-the-badge&logoColor=white)
-![Full Stack](https://img.shields.io/badge/📜_Mission_Ready_HQ-Full_Stack_Developer-4CAF50?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI Safety](https://img.shields.io/badge/AI_Safety-Research-FF6B6B?style=for-the-badge&logo=brain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+### Let's Connect
 
-[![Research Website](https://img.shields.io/badge/🔬_Research-approxiomresearch.com-4A90E2?style=for-the-badge)](https://approxiomresearch.com/blog)
-[![Full Resume](https://img.shields.io/badge/📄_Full_Resume-View_Complete_CV-9C27B0?style=for-the-badge)](https://approxiomresearch.com)
-[![Email](https://img.shields.io/badge/📧_Contact-Get_In_Touch-EA4335?style=for-the-badge)](https://www.approxiomresearch.com/contact)
+[![Website](https://img.shields.io/badge/Research-approxiomresearch.com-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://approxiomresearch.com)
+[![Resume](https://img.shields.io/badge/Resume-View_CV-9C27B0?style=for-the-badge&logo=readdotcv&logoColor=white)](https://approxiomresearch.com/resume)
+[![Email](https://img.shields.io/badge/Contact-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://www.approxiomresearch.com/contact)
 
-**Building systematic approaches to AI safety through reproducible research and open methodologies**
+**Full Stack Developer | AI Safety Researcher | Auckland, NZ**
 
 </div>
