@@ -24,7 +24,6 @@ Currently building full-stack applications with AI integration while advancing A
 ## Featured Projects
 
 ### REDD - AI Safety Testing Platform
-[![Live](https://img.shields.io/badge/Live-redd.approxiomresearch.com-success?style=flat-square)](https://redd.approxiomresearch.com)
 [![Repo](https://img.shields.io/badge/GitHub-unified--ai--misalignment--framework-blue?style=flat-square&logo=github)](https://github.com/Lona44/unified-ai-misalignment-framework)
 
 Full-stack platform for systematic AI safety evaluation, testing 12+ frontier models (GPT-5, Claude Opus/Sonnet, Gemini, o3) for misalignment behaviors.
