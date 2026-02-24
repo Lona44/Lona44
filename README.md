@@ -7,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maalonamafaufau/)
 [![Website](https://img.shields.io/badge/Research-approxiomresearch.com-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://approxiomresearch.com)
-[![REDD Platform](https://img.shields.io/badge/REDD-AI%20Safety%20Platform-red?style=for-the-badge&logo=robot&logoColor=white)](https://redd.approxiomresearch.com)
 
 </div>
 
